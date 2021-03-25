@@ -2,11 +2,27 @@
 
 ## Status
 
+### Overall
+
+added: 411-414, 347
+
+last update: 2021-03-25 21:50 CET
+
+![work completion status](status.png)
+
+### 2021 goal
+
+first suggestion ID: 348
+
 added: 411-414
 
 last update: 2021-03-25 19:00 CET
 
-![work completion status](status.png)
+![work completion status](status_2021.png)
+
+### Colors
+
+![status colors](status_colors.png)
 
 ## How to add Discord Suggestion?
 
