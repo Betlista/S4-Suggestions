@@ -6,6 +6,8 @@ added: 411-414
 
 last update: 2021-03-25 19:00 CET
 
+![work completion status](status.png)
+
 ## How to add Discord Suggestion?
 
 1. go to [Issues]
