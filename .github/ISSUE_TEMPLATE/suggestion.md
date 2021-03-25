@@ -11,9 +11,9 @@ assignees: ''
 
 **Discord ID:** *TODO*
 
-**Date:**
+**Date:** *TODO*
 
 **Text**
 > *TODO*
 
-**Link:** **TODO*
+**Link:** *TODO*
