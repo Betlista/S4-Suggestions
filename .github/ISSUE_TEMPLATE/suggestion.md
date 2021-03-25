@@ -1,8 +1,8 @@
 ---
 name: Suggestion
-about: Suggest an idea for this project
+about: Siggestion from S4 Discord
 title: ''
-labels: ''
+labels: discord
 assignees: ''
 
 ---
