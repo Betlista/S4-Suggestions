@@ -1,5 +1,13 @@
 # S4-Suggestions
 
+## Motivation
+
+Why to manage suggestions in GitHub?
+
+- suggestions can be linked together if related
+- discussion can be next to suggestion
+- we can categorize suggestions
+
 ## Status
 
 ### Overall
