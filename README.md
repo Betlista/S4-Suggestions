@@ -12,9 +12,9 @@ Why to manage suggestions in GitHub?
 
 ### Overall
 
-added: 406-419, 347
+added: 385-421, 347
 
-last update: 2021-03-28 14:50 CEST
+last update: 2021-03-28 22:00 CEST
 
 ![work completion status](status.png)
 
@@ -22,9 +22,9 @@ last update: 2021-03-28 14:50 CEST
 
 first suggestion ID: 348
 
-added: 406-419
+added: 385-421
 
-last update: 2021-03-28 14:50 CEST
+last update: 2021-03-28 22:00 CEST
 
 ![work completion status](status_2021.png)
 
